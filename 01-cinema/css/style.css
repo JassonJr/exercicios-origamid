@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial;
+}
+body {
+  display: block;
+  padding: 20px;
+}
+h2 {
+  margin-top: 10px;
+}
+a {
+  text-decoration: none;
+}
+h2 a {
+  color: seagreen;
+  font-weight: bold;
+}
+
+h1 {
+  font-weight: bold;
+}
+
+p {
+  margin-top: 10px;
+  font-size: 20px;
+}
+
+.hoje {
+  color: darkred;
+}
+.amanha {
+  color: darkblue;
+}

@@ -1,0 +1,46 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  margin: 50px;
+  font-family: arial;
+  font-size: 24px;
+}
+h1 {
+  text-align: center;
+}
+div {
+  /* display: flex;
+  flex-direction: column;
+  row-gap: 20px;
+  width: 90vw; */
+  color: white;
+  background-color: black;
+  border-radius: 7px;
+  margin: 20px;
+  padding: 30px;
+}
+div p {
+  color: #aaa;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+span {
+  color: goldenrod;
+}
+
+a {
+  display: inline-block;
+  background-color: goldenrod;
+  font-size: 24px;
+  font-weight: bold;
+  text-decoration: none;
+  color: black;
+  padding: 10px;
+  border-radius: 5px;
+  font-weight: medium;
+}
